@@ -5,10 +5,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [Built with](#built-with)
 
 
 ## Overview
